@@ -1,0 +1,30 @@
+body{
+font-family: cursive;
+font-weight: bolder;
+}
+
+#headingmain{
+font-weight: bolder;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: lawngreen;
+font-size: 350%;
+}
+
+#note123{
+font-weight: bolder;
+color: darksalmon;
+font-size: 130%;
+}
+
+#hmmsong{
+color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bolder;
+font-size: 25px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 50px;
+    }
+
